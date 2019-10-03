@@ -1,6 +1,6 @@
 # Covariance-Evolution
 
-Covariance Evolution implementation for BEC-channel with Octopus protograph. After paper published, i'll disclosure full version of source code.
+Covariance Evolution for LDPC codes finite length construction under BEC-channel with Octopus protograph. After paper published, i'll disclosure full version of source code.
 
 
 
