@@ -11,6 +11,6 @@ Example of waterfall prediction for rate and length adaptive (25/32<Rate<25/74, 
 
 
 
-Covariance Evolution estimation of irregular LDPC List Sum-Product decoder under q-ary symmetric channel from Dr. Fan Zhang, paper https://arxiv.org/abs/0806.3243,  Matlab source code https://github.com/Lcrypto/Density-Evolution-AWGN/tree/master/Covariance_Evolution_of_LIST_BP_under_q-ary_channel  
+Covariance Evolution estimation of irregular LDPC List Sum-Product decoder under q-ary symmetric channel from Dr. Fan Zhang, paper https://arxiv.org/abs/0806.3243,  Matlab source code https://github.com/Lcrypto/Covariance-Evolution-/tree/master/Covariance_Evolution_of_LIST_BP_under_q-ary_channel 
 
 
